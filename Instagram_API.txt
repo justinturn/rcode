@@ -1,0 +1,12 @@
+https://api.instagram.com/oauth/authorize/?client_id=CLIENT-ID&redirect_uri=REDIRECT-URI&response_type=code
+
+CLIENT-ID = e6988fea852b467b87872c9ffa7ffdf9
+
+https://api.instagram.com/oauth/authorize/?client_id=e6988fea852b467b87872c9ffa7ffdf9&redirect_uri=http://facebook.com/justinturn&response_type=code
+
+code = 4508022f31c749b8ada685f085b649d4
+
+
+https://api.instagram.com/oauth/authorize/?client_id=e6988fea852b467b87872c9ffa7ffdf9&redirect_uri=http://facebook.com/justinturn&response_type=token
+
+access toke = 43313376.e6988fe.1eb5c42994d14e2a80b95612cac731cb

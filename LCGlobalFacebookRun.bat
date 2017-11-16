@@ -1,0 +1,1 @@
+python "F:\Finance\Tableau\Social Media Dashboard\Facebook Analytics\GlobalFBLikes.py"
